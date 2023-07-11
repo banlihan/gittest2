@@ -5,5 +5,6 @@ public class GitMain {
         System.out.println("hello git");
         System.out.println("commit git");
         System.out.println("pull git");
+        System.out.println("banlihan push");
     }
 }
